@@ -31,7 +31,7 @@
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,numpy,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,github,vscode" />
 </p>
 
 ---
@@ -42,6 +42,13 @@
 - Git & GitHub
 
 ---
+
+## ⚡ Fun Fact
+
+💡 I believe consistency beats talent 🚀
+
+---
+
 <p align="center">
   <img src="https://github.com/Basit-Alvi/Basit-Alvi/blob/output/github-contribution-grid-snake.svg" />
 </p>
