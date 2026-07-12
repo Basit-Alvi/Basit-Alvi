@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 BSCS Student (2nd Semester)
+- 🎓 BSCS Student (3rd Semester)
 - 💻 Learning Python, AI & Web Dev
 - 🔥 Building projects
 - 🎯 Goal: AI Internship
