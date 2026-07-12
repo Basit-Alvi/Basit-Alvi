@@ -1,4 +1,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+![Python](https://img.shields.io/badge/Python-blue)
+![AI](https://img.shields.io/badge/AI-Learning-green)
+![Frontend](https://img.shields.io/badge/Frontend-JS-yellow)
 <h1 align="center">Hi 👋, I'm Basit Ali</h1>
 <h3 align="center">Frontend Developer | Future AI Engineer 🚀</h3>
 
