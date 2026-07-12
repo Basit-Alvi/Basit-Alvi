@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Basit-Alvi/Basit-Alvi/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; width: 400px;">
 </p>
@@ -25,7 +25,6 @@
 - Git & GitHub
 
 ---
-![snake gif](https://github.com/Basit-Alvi/Basit-Alvi/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://github.com/Basit-Alvi/Basit-Alvi/blob/output/github-contribution-grid-snake.svg" />
 </p>
