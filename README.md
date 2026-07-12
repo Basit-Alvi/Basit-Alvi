@@ -28,6 +28,14 @@
 
 ---
 
+## 🛠️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 - HTML, CSS, JavaScript
 - Python, NumPy, Pandas
