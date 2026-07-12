@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Basit Ali</h1>
 <h3 align="center">Frontend Developer | Future AI Engineer 🚀</h3>
 
