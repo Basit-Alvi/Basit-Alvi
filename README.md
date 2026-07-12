@@ -18,6 +18,16 @@
 
 ---
 
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-basit-ali-" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 - HTML, CSS, JavaScript
 - Python, NumPy, Pandas
