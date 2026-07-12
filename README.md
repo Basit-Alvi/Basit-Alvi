@@ -25,3 +25,7 @@
 - Git & GitHub
 
 ---
+![snake gif](https://github.com/Basit-Alvi/Basit-Alvi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Basit-Alvi/Basit-Alvi/blob/output/github-contribution-grid-snake.svg" />
+</p>
