@@ -49,8 +49,13 @@
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=Basit-Alvi&show_icons=true&theme=tokyonight
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basit-Alvi&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Basit-Alvi&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://github.com/Basit-Alvi/Basit-Alvi/blob/output/github-contribution-grid-snake.svg" />
 </p>
