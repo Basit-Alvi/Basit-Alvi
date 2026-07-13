@@ -13,7 +13,7 @@
 - 🎓 BSCS Student (3rd Semester)
 - 💻 Learning Python, AI & Web Dev
 - 🔥 Building projects
-- 🎯 Goal: AI Internship
+- 🎯 Goal: AI Engineer
 
 ---
 
